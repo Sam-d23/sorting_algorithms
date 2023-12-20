@@ -66,7 +66,8 @@ char get_value(deck_node_t *card)
 }
 
 /**
- * insertion_sort_deck_kind - a deck of cards is sorted from spades to diamonds.
+ * insertion_sort_deck_kind - a deck of cards
+ * is sorted from spades to diamonds.
  * @deck: pointer to the head of a deck_node_t doubly-linked list.
  */
 void insertion_sort_deck_kind(deck_node_t **deck)
